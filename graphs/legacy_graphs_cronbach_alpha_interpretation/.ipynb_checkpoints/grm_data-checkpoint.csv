@@ -1,0 +1,67 @@
+demographic_1. In welchem ​​Land leben Sie derzeit?,demographic_2. In welchem ​​Land bist du am meisten gefahren?,demographic_3. Wie alt bist du?,demographic_4. Was ist dein Geschlecht?,demographic_5. Was ist Ihre ethnische Herkunft/Rasse?,demographic_6. Was hast du für eine Ausbildung?,demographic_7. Was ist Ihr Beschäftigungsstatus?,demographic_8. Was ist Ihre Einkommensspanne?,demographic_9. Wie ist Ihr Familienstand,dba,sdca,ait,aidt,dbg
+Deutschland,Deutschland,23,Male,White,MD/Other Professional Degrees,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.425,0.35,0.9285714285714286,0.859375,0.55
+Österreich,Luxemburg,29,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.45,0.25,0.375,0.3
+Deutschland,Deutschland,37,Male,White,Bachelor's Degree,Selbstständiger,50.000€ < Einkommen <= 100.000€,Lebenspartner,0.65,0.5,0.5,0.75,0.3
+Deutschland,Deutschland,27,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Verheiratet,0.2,0.3,0.7142857142857143,0.890625,0.4
+Deutschland,Deutschland,29,Female,White,Bachelor's Degree,Beschäftigt,No income,"Single, nie verheiratet",0.5,0.05,0.14285714285714285,0.484375,0.4
+Deutschland,Deutschland,38,Male,White,Master's Degree,Beschäftigt,50.000€ < Einkommen <= 100.000€,Verheiratet,0.425,0.5,0.5,0.765625,0.375
+Deutschland,Deutschland,27,Female,White,Master's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.1,0.0,0.5,0.703125,0.2
+Deutschland,Deutschland,22,Male,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.325,0.35,1.0,0.71875,0.35
+Deutschland,Deutschland,22,Female,White,Bachelor's Degree,Selbstständiger,25.000€ < Einkommen<= 50.000€,Lebenspartner,0.3,0.3,0.7857142857142857,1.0,0.25
+Deutschland,Deutschland,24,Male,White,MD/Other Professional Degrees,Arbeitslos,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.4,0.6785714285714286,0.75,0.325
+Deutschland,Deutschland,25,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.325,0.3,0.07142857142857142,0.171875,0.275
+deutschland,deutschland,26,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.5,0.5,0.32142857142857145,0.53125,0.4
+Deutschland,Deutschland,24,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.35,0.1,0.5,0.5,0.15
+Deutschland,Deutschland,32,Male,White,Master's Degree,Beschäftigt,50.000€ < Einkommen <= 100.000€,Lebenspartner,0.4,0.5,0.6428571428571429,0.59375,0.25
+Deutschkland,Deutschland,26,Male,White,Bachelor's Degree,Selbstständiger,0€ < Einkommen<= 25.000€,Lebenspartner,0.6,0.7,0.8928571428571429,0.90625,0.55
+Österreich,Österreich,41,Female,White,MD/Other Professional Degrees,Beschäftigt,25.000€ < Einkommen<= 50.000€,"Single, nie verheiratet",0.45,0.45,0.03571428571428571,0.53125,0.35
+Deutschland,Deutschland,37,Female,White,Master's Degree,Beschäftigt,50.000€ < Einkommen <= 100.000€,Verheiratet,0.4,0.35,0.32142857142857145,0.421875,0.275
+Deutschland,Deutschland,22,Female,White,None,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.425,0.3,0.25,0.53125,0.4
+Deutschland,Deutschland,27,Male,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.5,0.45,0.25,0.484375,0.275
+Deutschland,Deutschland,31,Male,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Verheiratet,0.45,0.5,0.6785714285714286,0.765625,0.45
+Deutschland,DEutschland,21,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.85,0.5714285714285714,0.265625,0.675
+Deutschland,Österreich,24,Female,White,None,Haushalt,No income,"Single, nie verheiratet",0.7,0.45,0.35714285714285715,0.71875,0.325
+Deutschland,Deutschland,31,Male,White,Master's Degree,Beschäftigt,50.000€ < Einkommen <= 100.000€,Verheiratet,0.425,0.25,0.5714285714285714,0.375,0.15
+Deutschland,Deutschland,29,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.45,0.2,0.6428571428571429,0.75,0.2
+Österreich,Österreich,28,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.75,0.35,0.17857142857142858,0.359375,0.575
+Deutschland,Deutschland,23,Male,White,Master's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.7,0.55,0.5,0.796875,0.6
+Österreich,Österreich,26,Female,White,Master's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,Lebenspartner,0.5,0.5,0.25,0.59375,0.375
+Deutschland,Deutschland,23,Male,White,High School/College Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.35,0.5,0.35714285714285715,0.625,0.325
+Deutschland,Deutschland,21,Male,White,None,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.6,0.45,0.7857142857142857,0.96875,0.5
+Schweiz,Schweiz,30,Male,White,Bachelor's Degree,Arbeitslos,No income,"Single, nie verheiratet",0.35,0.3,0.8214285714285714,0.859375,0.3
+Frankreich ,Frankreich,30,Male,Black/African American,High School/College Degree,Beschäftigt,50.000€ < Einkommen <= 100.000€,Geschieden,0.35,0.5,0.39285714285714285,0.40625,0.625
+Deutschland,Deutschland,29,Female,White,Master's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,"Single, nie verheiratet",0.4,0.3,0.6428571428571429,0.390625,0.225
+Deutschland,Deutschland,22,Female,Black/African American,High School/College Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.3,0.35,0.35714285714285715,0.25,0.325
+Deutschland,Deutschland,23,Male,White,High School/College Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.4,0.25,0.35714285714285715,0.359375,0.25
+Deutschland,Deutschland,38,Female,White,Bachelor's Degree,Beschäftigt,50.000€ < Einkommen <= 100.000€,Lebenspartner,0.45,0.0,0.25,0.296875,0.425
+Deutschland,Deutschland,31,Female,White,MD/Other Professional Degrees,Arbeitslos,No income,"Single, nie verheiratet",0.45,0.4,0.5,0.671875,0.2
+Deutschland,Deutschland,23,Female,White,High School/College Degree,Arbeitslos,No income,"Single, nie verheiratet",0.425,0.45,0.75,0.734375,0.45
+Niederlande,Deutschland,20,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.35,0.3,0.2857142857142857,0.296875,0.3
+Deutschland,Deutschland,27,Male,White,Master's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,Lebenspartner,0.55,0.45,0.6071428571428571,0.734375,0.3
+Deutschland,Baden-Württemberg,26,Male,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.45,0.35,0.75,0.75,0.15
+Österreich,Österreich,28,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.65,0.0,0.0,0.171875,0.375
+Deutschland,Deutschland,23,Female,White,High School/College Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.675,0.25,0.2857142857142857,0.5,0.225
+Deutschland,Deutschland,25,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.425,0.35,0.32142857142857145,0.0625,0.4
+Deutschland,Deutschland,26,Female,White,Bachelor's Degree,Arbeitslos,No income,"Single, nie verheiratet",0.525,0.3,0.5714285714285714,0.578125,0.3
+Deutschland,Deutschland,25,Female,White,Bachelor's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,Lebenspartner,0.35,0.5,0.32142857142857145,0.578125,0.35
+Deutschland,Deutschland,25,Female,White,Master's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,Lebenspartner,0.475,0.05,0.39285714285714285,0.59375,0.2
+Deutschland,DE,25,Male,White,Bachelor's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,Lebenspartner,0.575,0.45,0.6785714285714286,0.578125,0.425
+Deutschland,Deutschland,25,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.4,0.5,0.6428571428571429,0.84375,0.3
+Deutschland,Deutschland,22,Male,White,High School/College Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.45,0.3,0.6428571428571429,0.59375,0.4
+Deutschland ,Italien,25,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.5,0.25,0.3125,0.45
+Deutschland,Deutschland,26,Male,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.5,0.6428571428571429,0.796875,0.45
+Deutschland,Deutschland,26,Female,White,Bachelor's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,"Single, nie verheiratet",0.675,0.6,0.32142857142857145,0.734375,0.4
+Deutschland,Deutschland,24,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.5,0.3,0.03571428571428571,0.5,0.35
+Deutschland,Deutschland,26,Male,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.275,0.25,0.8571428571428571,0.96875,0.2
+Deutschland,Deutschland,26,Female,White,High School/College Degree,Arbeitslos,0€ < Einkommen<= 25.000€,Lebenspartner,0.2,0.4,0.8571428571428571,0.90625,0.2
+Deutschland,Deutschland,29,Male,White,Master's Degree,Selbstständiger,No income,"Single, nie verheiratet",0.6,0.25,0.5357142857142857,0.8125,0.1
+Österreich,Österreich,23,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.575,0.45,0.25,0.40625,0.45
+Deutschland ,Deutschland ,24,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.45,0.2,0.21428571428571427,0.375,0.3
+österreich,slowakei,24,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.625,0.5,0.39285714285714285,0.515625,0.325
+Deutschland,Deutschland,25,Male,White,High School/College Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.3,0.42857142857142855,0.765625,0.5
+Deutschland,Deutschland,50,Female,White,Master's Degree,Beschäftigt,25.000€ < Einkommen<= 50.000€,Verheiratet,0.55,0.15,0.14285714285714285,0.359375,0.55
+Frankreich,Luxemburg,24,Female,White,Master's Degree,Arbeitslos,0€ < Einkommen<= 25.000€,Lebenspartner,0.425,0.1,0.10714285714285714,0.421875,0.35
+Deutschland,Baden-Württemberg,26,Female,White,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.5,0.14285714285714285,0.4375,0.35
+Deutschland,Deutschland,22,Female,Asian,Bachelor's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,"Single, nie verheiratet",0.55,0.3,0.32142857142857145,0.4375,0.375
+Deutschland,Deutschland,23,Female,White,Master's Degree,Beschäftigt,0€ < Einkommen<= 25.000€,Lebenspartner,0.5,0.45,0.39285714285714285,0.59375,0.425
+france,france,24,Female,White,Master's Degree,Arbeitslos,No income,"Single, nie verheiratet",0.3,0.5,0.6428571428571429,0.703125,0.25

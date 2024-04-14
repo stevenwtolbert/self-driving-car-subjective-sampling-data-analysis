@@ -1,0 +1,51 @@
+demographic_1. What country do you currently reside in?,demographic_2. What country have you driven the most in?,demographic_3. What is your age?,demographic_4. What is your gender?,demographic_5. What is your ethnicity origin/race?,demographic_6. What is your education?,demographic_7. What is your employment status?,demographic_8. What is your income range?,demographic_9. What is your marital status,dba,sdca,ait,aidt,dbg
+Italy,China,23,Female,Asian,Master's Degree,Unemployed,No income,"Single, never married",0.3,0.2,1.0,1.0,0.15
+Germany,Germany,18,Female,White,High School/College Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.2,0.4,0.07142857142857142,0.296875,0.25
+poland,poland,20,Female,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.475,0.0,0.32142857142857145,0.34375,0.225
+Brazil,Brazil,29,Male,White,Bachelor's Degree,Employed,"$200,000 < Income","Single, never married",0.3,0.4,0.6071428571428571,0.84375,0.225
+Sweden,Sweden,30,Male,White,Bachelor's Degree,Self-employed,"$0 < Income <= $25,000",Domestic Partner,0.275,0.1,0.25,0.53125,0.225
+United States,United States,24,Female,White,Bachelor's Degree,Employed,"$25,000 < Income <= $50,000","Single, never married",0.375,0.55,0.5357142857142857,0.734375,0.425
+United Kindom,Vietnam,22,Female,Asian,Bachelor's Degree,Self-employed,"$0 < Income <= $25,000","Single, never married",0.275,0.5,0.5357142857142857,0.5625,0.475
+USA,USA,40,Male,White,High School/College Degree,Employed,"$25,000 < Income <= $50,000",Married,0.35,0.35,0.6785714285714286,0.765625,0.275
+USA,USA,36,Female,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000",Married,0.45,0.5,0.6071428571428571,0.71875,0.575
+USA,USA,32,Male,White,Master's Degree,Employed,"$50,000 < Income <= $100,000",Married,0.175,0.45,0.75,0.609375,0.15
+United State of America,United State of America,30,Male,White,Bachelor's Degree,Employed,"$100,000 < Income <= $200,000",Married,0.45,0.6,0.7857142857142857,0.734375,0.375
+USA,USA,45,Male,White,Bachelor's Degree,Employed,"$50,000 < Income <= $100,000",Married,0.575,0.35,0.9642857142857143,0.921875,0.1
+Czechia,United States,24,Female,White,High School/College Degree,Self-employed,"$0 < Income <= $25,000","Single, never married",0.125,0.45,0.39285714285714285,0.734375,0.15
+ HAMILTON,ohio,48,Male,White,Master's Degree,Employed,"$25,000 < Income <= $50,000",Married,0.2,0.25,0.35714285714285715,0.5,0.3
+United States,United States,24,Male,White,Bachelor's Degree,Employed,"$50,000 < Income <= $100,000","Single, never married",0.45,0.5,0.6785714285714286,0.890625,0.45
+United States,United States,25,Male,White,Bachelor's Degree,Unemployed,"$0 < Income <= $25,000","Single, never married",0.45,0.6,0.5,0.828125,0.3
+USA,USA,51,Female,White,Master's Degree,Employed,"$50,000 < Income <= $100,000",Married,0.5,0.55,0.42857142857142855,1.0,0.5
+USA,USA,30,Male,White,High School/College Degree,Employed,"$100,000 < Income <= $200,000",Married,0.35,0.6,0.8928571428571429,0.9375,0.325
+USA,USA,35,Male,White,High School/College Degree,Employed,"$0 < Income <= $25,000",Married,0.35,0.55,0.5357142857142857,0.578125,0.675
+USA,USA,30,Male,White,Master's Degree,Employed,"$50,000 < Income <= $100,000","Single, never married",0.25,0.45,0.6785714285714286,0.703125,0.5
+Switzerland,Spain,20,Male,White,High School/College Degree,Unemployed,No income,"Single, never married",0.375,0.15,0.25,0.375,0.225
+United States of America,Florida,24,Male,White,Bachelor's Degree,Employed,"$50,000 < Income <= $100,000","Single, never married",0.7,0.35,0.2857142857142857,0.5,0.325
+united states,united states,19,Female,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.475,0.4,0.4642857142857143,0.53125,0.475
+The United States of America,The United States of America,24,Male,Black/African American,High School/College Degree,Unemployed,"$0 < Income <= $25,000","Single, never married",0.65,0.4,0.35714285714285715,0.34375,0.5
+United States ,United States ,23,Male,White,High School/College Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.5,0.45,0.6071428571428571,0.75,0.35
+USA,USA,20,Male,Asian,Bachelor's Degree,Unemployed,No income,"Single, never married",0.35,0.0,0.21428571428571427,0.109375,0.225
+United States,United States,24,Female,White,Bachelor's Degree,Employed,"$25,000 < Income <= $50,000","Single, never married",0.5,0.4,0.07142857142857142,0.390625,0.225
+United States,Unites States,21,Male,Hispanic/Latino,High School/College Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.4,0.4,0.14285714285714285,0.65625,0.375
+United States,United States,21,Male,Asian,High School/College Degree,Unemployed,"$0 < Income <= $25,000","Single, never married",0.55,0.4,0.6071428571428571,0.5625,0.45
+USA,USA,18,Male,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000",Domestic Partner,0.45,0.3,0.8214285714285714,0.859375,0.3
+United States,United States,18,Male,White,High School/College Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.55,1.0,1.0,1.0,0.55
+United States,U.S. ,26,Male,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.625,0.8,0.6428571428571429,0.015625,0.575
+United States,United States,19,Female,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.2,0.25,0.6071428571428571,0.34375,0.375
+United States,United States,21,Male,White,High School/College Degree,Unemployed,No income,"Single, never married",0.375,0.4,0.5357142857142857,0.65625,0.425
+United states,United States,21,Male,White,High School/College Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.55,0.55,0.6785714285714286,0.75,0.5
+United States,United States,21,Male,White,High School/College Degree,Unemployed,No income,"Single, never married",0.6,0.15,0.5,0.578125,0.475
+United States,United States,26,Male,White,High School/College Degree,Unemployed,"$0 < Income <= $25,000",Married,0.6,0.15,0.5357142857142857,0.546875,0.475
+USA,USA,31,Male,Hispanic/Latino,Bachelor's Degree,Unemployed,"$0 < Income <= $25,000","Single, never married",0.45,0.35,0.32142857142857145,0.25,0.325
+United States,United States,19,Male,Hispanic/Latino,High School/College Degree,Unemployed,No income,"Single, never married",0.5,0.5,0.5714285714285714,0.59375,0.4
+India,India,36,Male,Asian,Bachelor's Degree,Employed,"$0 < Income <= $25,000",Married,0.35,0.05,0.6785714285714286,0.515625,0.2
+usa,usa,40,Male,White,High School/College Degree,Self-employed,"$25,000 < Income <= $50,000",Married,0.15,0.05,0.39285714285714285,0.828125,0.275
+USA,USA,38,Female,White,Bachelor's Degree,Employed,"$50,000 < Income <= $100,000",Married,0.5,0.65,0.6785714285714286,0.6875,0.575
+USA,USA,40,Male,White,High School/College Degree,Self-employed,"$25,000 < Income <= $50,000",Married,0.1,0.25,0.8928571428571429,0.890625,0.3
+USA,USA,30,Male,White,Master's Degree,Employed,"$25,000 < Income <= $50,000","Single, never married",0.3,0.6,0.5,0.609375,0.375
+United States,United States,40,Male,Asian,Master's Degree,Employed,"$200,000 < Income",Married,0.25,0.15,0.5,0.59375,0.2
+UK,France,22,Female,White,Bachelor's Degree,Employed,"$0 < Income <= $25,000","Single, never married",0.55,0.15,0.25,0.4375,0.275
+United States,United States,24,Female,White,Bachelor's Degree,Unemployed,No income,"Single, never married",0.65,0.5,0.7142857142857143,0.859375,0.4
+United States,United States,32,Female,Black/African American,Bachelor's Degree,Unemployed,"$25,000 < Income <= $50,000",Married,0.35,0.3,0.5714285714285714,0.5625,0.175
+austria,slovakia,24,Female,White,Bachelor's Degree,Unemployed,No income,"Single, never married",0.5,0.3,0.4642857142857143,0.546875,0.425
+United States,United States,25,Male,White,Master's Degree,Employed,"$50,000 < Income <= $100,000","Single, never married",0.45,0.55,0.39285714285714285,0.78125,0.475

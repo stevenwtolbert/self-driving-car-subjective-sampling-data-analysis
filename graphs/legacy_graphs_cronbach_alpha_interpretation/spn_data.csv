@@ -1,0 +1,42 @@
+demographic_1. ¿En qué país reside actualmente?,demographic_2. ¿En qué país has conducido más?,demographic_3. ¿Cuál es tu edad?,demographic_4. ¿Cuál es su género?,demographic_5. ¿Cuál es su origen étnico/raza?,demographic_6. ¿Cuál es tu educación?,demographic_7. ¿Cuál es tu situacion laboral?,demographic_8. ¿Cuál es su rango de ingresos?,demographic_9. Cuál es tu estado civil,dba,sdca,ait,aidt,dbg
+Panama,Panama,26,Female,Hispanic/Latino ,Bachelor's Degree,Desempleados,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.475,0.35,0.03571428571428571,0.0625,0.15
+Panama,Panama,54,Female,Hispanic/Latino ,High School/College Degree,Familiar,"$0 < Ingreso<= $25,000",Casado,0.3,0.6,1.0,0.25,0.2
+Panamá ,Panamá ,28,Male,Hispanic/Latino ,High School/College Degree,Trabajadores por cuenta propia,"$2,000 < Ingreso <= $50,000","Soltero, nunca casado",0.475,0.15,0.6071428571428571,0.5,0.2
+Usa,Usa,56,Male,White,None,Empleado,"$200,000 < Ingreso",Casado,0.35,0.4,0.7142857142857143,0.5,0.45
+Panamá ,Panamá ,19,Female,Hispanic/Latino ,High School/College Degree,Desempleados,"$50,000 < Ingreso <= $100,000","Soltero, nunca casado",0.35,0.45,0.6428571428571429,0.59375,0.15
+Panama ,Panama,18,Male,Hispanic/Latino ,High School/College Degree,Desempleados,Sin ingresos,"Soltero, nunca casado",0.425,0.35,0.5,0.515625,0.275
+Panamá,Panamá,23,Male,Hispanic/Latino ,High School/College Degree,Desempleados,Sin ingresos,"Soltero, nunca casado",0.2,0.25,0.6071428571428571,0.609375,0.1
+Panamá ,Panamá ,21,Male,Hispanic/Latino ,High School/College Degree,Desempleados,Sin ingresos,"Soltero, nunca casado",0.5,0.3,0.5,0.5,0.25
+Panamá,Panamá,33,Male,Hispanic/Latino ,Master's Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.5,0.5,0.5357142857142857,0.21875,0.275
+Panamá ,Panamá ,18,Female,Hispanic/Latino ,Bachelor's Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.6,0.45,0.39285714285714285,0.546875,0.325
+Panamá,Panamá,21 años,Female,Hispanic/Latino ,Bachelor's Degree,Trabajadores por cuenta propia,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.3,0.3,0.8571428571428571,1.0,0.2
+Panamá ,Panamá ,19,Female,Hispanic/Latino ,High School/College Degree,Desempleados,Sin ingresos,"Soltero, nunca casado",0.2,0.0,0.5,0.5,0.125
+Panamá,Panamá,40,Female,Hispanic/Latino ,Bachelor's Degree,Desempleados,Sin ingresos,Casado,0.4,0.0,0.21428571428571427,0.859375,0.1
+Panamá ,Panamá ,32,Male,Hispanic/Latino ,High School/College Degree,Trabajadores por cuenta propia,"$2,000 < Ingreso <= $50,000",Casado,0.5,0.5,0.5714285714285714,0.9375,0.25
+Panama ,Panama ,18 ,Male,White,High School/College Degree,Familiar,"$2,000 < Ingreso <= $50,000","Soltero, nunca casado",0.2,0.0,1.0,0.921875,0.05
+Panamá,Panamá,35 años,Female,Black/African American,Bachelor's Degree,Empleado,"$2,000 < Ingreso <= $50,000","Soltero, nunca casado",0.425,0.05,0.5,0.484375,0.25
+Panamá ,Panamá ,26,Female,Hispanic/Latino ,Bachelor's Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.425,0.2,0.35714285714285715,0.3125,0.15
+Panama,Panama,29,Female,Hispanic/Latino ,High School/College Degree,Empleado,"$2,000 < Ingreso <= $50,000","Soltero, nunca casado",0.45,0.5,0.6071428571428571,0.609375,0.25
+Panama,Panama,47,Female,Hispanic/Latino ,Bachelor's Degree,Trabajadores por cuenta propia,"$0 < Ingreso<= $25,000",Casado,0.45,0.05,0.6071428571428571,0.140625,0.1
+Panamá ,Panamá ,21,Male,Hispanic/Latino ,Bachelor's Degree,Incapaz de trabajar,Sin ingresos,"Soltero, nunca casado",0.35,0.5,0.5714285714285714,0.46875,0.1
+Panamá ,Panamá ,58,Male,Hispanic/Latino ,High School/College Degree,Retirado,"$0 < Ingreso<= $25,000",Viudo,0.4,0.1,0.5,0.390625,0.075
+Panamá,Panamá,34,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.375,0.45,0.5357142857142857,0.1875,0.2
+Panamá,Panamá,30,Male,Hispanic/Latino ,Bachelor's Degree,Empleado,"$2,000 < Ingreso <= $50,000",Casado,0.5,0.25,0.75,0.84375,0.25
+Panamá,No manejo,23,Male,Hispanic/Latino ,High School/College Degree,Desempleados,Sin ingresos,"Soltero, nunca casado",0.55,0.35,0.17857142857142858,0.140625,0.375
+Panamá ,Colombia y Estados Unidos,44 años ,Female,Hispanic/Latino ,Bachelor's Degree,Trabajadores por cuenta propia,Sin ingresos,Casado,0.45,0.05,0.39285714285714285,0.09375,0.075
+Panama,Panama,53,Female,Hispanic/Latino ,High School/College Degree,Trabajadores por cuenta propia,"$0 < Ingreso<= $25,000",Divorciado,0.25,0.0,0.0,0.0625,0.05
+Panamá ,Panamá ,27,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000",Casado,0.3,0.1,0.0,0.046875,0.2
+Panamá,Panamá,24,Female,Black/African American,High School/College Degree,Desempleados,Sin ingresos,Casado,0.575,0.55,0.14285714285714285,0.4375,0.3
+Panamá ,Panamá. ,54,Male,White,High School/College Degree,Retirado,"$50,000 < Ingreso <= $100,000",Casado,0.45,0.35,1.0,1.0,0.1
+Panama,Panama,30,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$2,000 < Ingreso <= $50,000","Soltero, nunca casado",0.45,0.5,0.5,0.234375,0.4
+Panamá,Panamá,28,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.075,0.0,0.25,0.234375,0.05
+Panamá ,Panamá,28 ,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.2,0.0,0.25,0.25,0.15
+Panama,Panama ,29,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.75,0.25,0.5,0.5,0.25
+Villa zaita,Venezuela,43,Male,Hispanic/Latino ,Bachelor's Degree,Trabajadores por cuenta propia,"$0 < Ingreso<= $25,000",Casado,0.35,0.0,0.4642857142857143,0.34375,0.2
+Panamá ,Venezuela,38,Female,Hispanic/Latino ,Bachelor's Degree,Trabajadores por cuenta propia,"$0 < Ingreso<= $25,000",Casado,0.275,0.5,0.25,0.125,0.2
+Panams,Panamá ,32,Female,White,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.275,0.05,0.0,0.046875,0.225
+Panamá,Panamá,38,Female,Hispanic/Latino ,Bachelor's Degree,Empleado,"$2,000 < Ingreso <= $50,000",Socio doméstico,0.275,0.0,0.17857142857142858,0.25,0.1
+Panama,Panama,36,Male,Hispanic/Latino ,High School/College Degree,Empleado,"$0 < Ingreso<= $25,000","Soltero, nunca casado",0.25,0.35,0.25,0.203125,0.225
+Arraijan,Panama,44,Female,Hispanic/Latino ,Bachelor's Degree,Trabajadores por cuenta propia,"$0 < Ingreso<= $25,000",Casado,0.3,0.3,0.14285714285714285,0.0,0.225
+Panamá ,Panamá ,49,Male,Hispanic/Latino ,High School/College Degree,Retirado,"$0 < Ingreso<= $25,000",Apartado,0.45,0.05,0.14285714285714285,0.328125,0.1
+USA,USA,64,Male,Hispanic/Latino ,Master's Degree,Empleado,"$100,000 < Ingreso<= $200,000",Casado,0.5,0.1,0.17857142857142858,0.453125,0.25
